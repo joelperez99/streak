@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+openpyxl
+unidecode
+Unidecode
+urllib3
